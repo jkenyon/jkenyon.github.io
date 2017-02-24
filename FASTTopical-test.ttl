@@ -1,0 +1,18 @@
+﻿
+<http://id.worldcat.org/fast/799409> <http://purl.org/dc/terms/identifier> "799409" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://id.worldcat.org/fast/ontology/1.0/#fast> ;
+	a <http://schema.org/Intangible> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://id.worldcat.org/fast/ontology/1.0/#facet-Topical> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "African American teenagers--Education" ;
+	<http://schema.org/name> "African American teenagers--Education" ;
+	<http://www.w3.org/2004/02/skos/core#relatedMatch> <http://id.loc.gov/authorities/subjects/sh87006882> , <http://id.loc.gov/authorities/subjects/sh99005758> .
+
+<http://id.worldcat.org/fast/912703> <http://purl.org/dc/terms/identifier> "912703" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://id.worldcat.org/fast/ontology/1.0/#fast> ;
+	a <http://schema.org/Intangible> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://id.worldcat.org/fast/ontology/1.0/#facet-Topical> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Enthusiasm--Religious aspects--Christianity" ;
+	<http://schema.org/name> "Enthusiasm--Religious aspects--Christianity" ;
+	<http://schema.org/sameAs> <http://id.loc.gov/authorities/subjects/sh85044115> ;
+	<http://www.w3.org/2004/02/skos/core#relatedMatch> <http://d-nb.info/gnd/4180308-5> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Enthusiasm--Religious aspects--Christianity" .
