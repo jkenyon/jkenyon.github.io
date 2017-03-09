@@ -15,7 +15,7 @@ function drawTable() {
 
   // Encode the query for HTTP
       var queryText = encodeURIComponent(query);
-      var gvizQuery = new google.visualization.Query('http://www.google.com/fusiontables/gvizdata?tq=' + queryText);
+      var gvizQuery = new google.visualization.Query('https://www.google.com/fusiontables/gvizdata?tq=' + queryText);
 
   // Send and receive the query
       gvizQuery.send(function (response) {
@@ -67,7 +67,7 @@ if (x) {
     }
     var queryText = encodeURIComponent(query);
     var gvizQuery = new google.visualization.Query(
-        'http://www.google.com/fusiontables/gvizdata?tq=' + queryText);
+        'https://www.google.com/fusiontables/gvizdata?tq=' + queryText);
         console.log(gvizQuery);
 gvizQuery.send(function (response) {
   var data = response.getDataTable();
