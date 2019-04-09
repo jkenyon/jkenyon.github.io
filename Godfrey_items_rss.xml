@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rss="http://purl.org/rss/1.0/">
+  <rss:channel>
+    <rss:link>http://vivo.nkn.uidaho.edu/individual/n1633553470</rss:link>
+    <rss:title>Recent Publications of Bruce Godfrey</rss:title>
+    <rss:description>Custom RSS feed for individual faculty publications from Idaho VIVO</rss:description>
+    <dc:title>Recent Publications of Bruce Godfrey</dc:title>
+    <dc:language>en-us</dc:language>
+    <dc:publisher>UI Library</dc:publisher>
+    <rss:docs>https://www.crossref.org/wp/labs/whitepapers/rss-best-practice/</rss:docs>
+  </rss:channel>
+  <rss:item>
+    <rss:title>Evolving Studies of Ground Snow Loads for Several Western US States</rss:title>
+    <rss:link>http://vivo.nkn.uidaho.edu/individual/W000395525000011</rss:link>
+    <rss:description>Volume 143 Issue 3</rss:description>
+    <dc:title>Evolving Studies of Ground Snow Loads for Several Western US States</dc:title>
+    <dc:identifier>10.1061/(ASCE)ST.1943-541X.0001679 </dc:identifier>
+    <dc:source>Journal of Structural Engineering</dc:source>
+    <dc:date>2017</dc:date>
+    <dc:rights>CC-0</dc:rights>
+    <dc:creator>Sack, Ronald</dc:creator>
+    <dc:creator> Nielsen, Richard</dc:creator>
+    <dc:creator> Godfrey, Bruce</dc:creator>
+    <prism:publicationName>Evolving Studies of Ground Snow Loads for Several Western US States</prism:publicationName>
+    <prism:volume>143</prism:volume>
+    <prism:issue>3</prism:issue>
+    <prism:doi>10.1061/(ASCE)ST.1943-541X.0001679 </prism:doi>
+    <prism:url>http://vivo.nkn.uidaho.edu/individual/W000395525000011</prism:url>
+    <prism:copyright>CC-0</prism:copyright>
+    <content:encoded>&lt;![CDATA[&lt;p&gt;Sack, Ronald; Nielsen, Richard; Godfrey, Bruce. (2017). Evolving Studies of Ground Snow Loads for Several Western US States. &lt;em&gt;Journal of Structural Engineering&lt;/em&gt;. https://doi.org/10.1061/(ASCE)ST.1943-541X.0001679  &lt;/p&gt;]]</content:encoded>
+  </rss:item>
+  <rss:item>
+    <rss:title>The USDA's NAIP Imagery in Idaho: A Decade of Evolving Partnerships to Improve Access</rss:title>
+    <rss:link>http://vivo.nkn.uidaho.edu/individual/n353532</rss:link>
+    <rss:description>Volume 65 Issue 3, Page 414-428</rss:description>
+    <dc:title>The USDA's NAIP Imagery in Idaho: A Decade of Evolving Partnerships to Improve Access</dc:title>
+    <dc:identifier>10.1353/lib.2017.0009</dc:identifier>
+    <dc:source>Library Trends</dc:source>
+    <dc:date>2017</dc:date>
+    <dc:rights>CC-0</dc:rights>
+    <dc:creator>Godfrey, Bruce</dc:creator>
+    <dc:creator> Kenyon, Jeremy</dc:creator>
+    <prism:publicationName>The USDA's NAIP Imagery in Idaho: A Decade of Evolving Partnerships to Improve Access</prism:publicationName>
+    <prism:volume>65</prism:volume>
+    <prism:issue>3</prism:issue>
+    <prism:startingPage>414</prism:startingPage>
+    <prism:endingPage>428</prism:endingPage>
+    <prism:doi>10.1353/lib.2017.0009</prism:doi>
+    <prism:url>http://vivo.nkn.uidaho.edu/individual/n353532</prism:url>
+    <prism:copyright>CC-0</prism:copyright>
+    <content:encoded>&lt;![CDATA[&lt;p&gt;Godfrey, Bruce; Kenyon, Jeremy. (2017). The USDA's NAIP Imagery in Idaho: A Decade of Evolving Partnerships to Improve Access. &lt;em&gt;Library Trends&lt;/em&gt;. https://doi.org/10.1353/lib.2017.0009 &lt;/p&gt;]]</content:encoded>
+  </rss:item>
+  <rss:item>
+    <rss:title>Geospatial Data on Your Own Terms</rss:title>
+    <rss:link>http://vivo.nkn.uidaho.edu/individual/n414278</rss:link>
+    <rss:description>Volume 80 Issue 2, Page 29-38</rss:description>
+    <dc:title>Geospatial Data on Your Own Terms</dc:title>
+    <dc:source>PNLA Quarterly</dc:source>
+    <dc:date>2016</dc:date>
+    <dc:rights>CC-0</dc:rights>
+    <dc:creator>Godfrey, Bruce</dc:creator>
+    <prism:publicationName>Geospatial Data on Your Own Terms</prism:publicationName>
+    <prism:volume>80</prism:volume>
+    <prism:issue>2</prism:issue>
+    <prism:startingPage>29</prism:startingPage>
+    <prism:endingPage>38</prism:endingPage>
+    <prism:url>http://vivo.nkn.uidaho.edu/individual/n414278</prism:url>
+    <prism:copyright>CC-0</prism:copyright>
+    <content:encoded>&lt;![CDATA[&lt;p&gt;Godfrey, Bruce. (2016). Geospatial Data on Your Own Terms. &lt;em&gt;PNLA Quarterly&lt;/em&gt;. &lt;/p&gt;]]</content:encoded>
+  </rss:item>
+  <rss:item>
+    <rss:title>The Geospatial Metadata Manager's Toolbox: Three Techniques for Maintaining Records</rss:title>
+    <rss:link>http://vivo.nkn.uidaho.edu/individual/n122910</rss:link>
+    <rss:description></rss:description>
+    <dc:title>The Geospatial Metadata Manager's Toolbox: Three Techniques for Maintaining Records</dc:title>
+    <dc:source>code4lib</dc:source>
+    <dc:date>2015</dc:date>
+    <dc:rights>CC-0</dc:rights>
+    <dc:creator>Godfrey, Bruce</dc:creator>
+    <dc:creator> Kenyon, Jeremy</dc:creator>
+    <prism:publicationName>The Geospatial Metadata Manager's Toolbox: Three Techniques for Maintaining Records</prism:publicationName>
+    <prism:issue>29</prism:issue>
+    <prism:url>http://vivo.nkn.uidaho.edu/individual/n122910</prism:url>
+    <prism:copyright>CC-0</prism:copyright>
+    <content:encoded>&lt;![CDATA[&lt;p&gt;Godfrey, Bruce; Kenyon, Jeremy. (2015). The Geospatial Metadata Manager's Toolbox: Three Techniques for Maintaining Records. &lt;em&gt;code4lib&lt;/em&gt;. &lt;/p&gt;]]</content:encoded>
+  </rss:item>
+</rdf:RDF>
