@@ -1,8 +1,0 @@
-<http://id.loc.gov/authorities/subjects/sh85053412> <http://www.w3.org/2000/01/rdf-schema#label> "Gasholders" .
-<http://id.loc.gov/authorities/subjects/sh85053412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://id.loc.gov/authorities/subjects/sh85000973> <http://www.w3.org/2000/01/rdf-schema#label> "Adolescent psychotherapy--Residential treatment" .
-<http://id.loc.gov/authorities/subjects/sh85000973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://id.loc.gov/authorities/subjects/sh87005421> <http://www.w3.org/2000/01/rdf-schema#label> "High school enrollment" .
-<http://id.loc.gov/authorities/subjects/sh87005421>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://d-nb.info/gnd/4343286-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://d-nb.info/gnd/4343286-4> <http://www.w3.org/2000/01/rdf-schema#label> "Zimtbaum" .
