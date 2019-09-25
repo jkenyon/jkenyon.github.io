@@ -1,0 +1,54 @@
+/* add decorative borders  */
+header {
+    border-top: solid 4px $top-border;
+    .nav-tabs {
+        border: none;
+    }
+}
+footer {
+    border-top: solid 1px $top-border;
+    .nav-link { 
+        color: rgba(0,0,0,.5);
+        &.active { 
+            text-decoration: underline;
+            color: rgba(0,0,0,.9);
+        }
+        &:hover {
+            color: rgba(0,0,0,.7);
+        }
+    }
+}
+
+.btn {
+    border-radius: 0;
+}
+
+/* change default colors */
+body {
+    color: $text-color;
+}
+a {
+    color: $link-color;
+}
+
+
+
+h1 {
+    color: #F1B300;
+    -webkit-text-stroke: 1px black;
+}
+/* change container size for easier reading */
+@media (min-width:576px){
+    .container{max-width:540px}
+}
+@media (min-width:768px){
+    .container{max-width:750px}
+}
+@media (min-width:992px){
+    .container{max-width:$container-max}
+}
+@media (min-width:1200px){
+    .container{max-width:$container-max}
+}
+/* remove margin in alerts */
+.alert p:last-of-type { margin-bottom: 0; }
