@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="style.css"> <!-- Gem style -->
+	<title>Climate Change Data Resources</title>
+</head>
+<body>
+	<header>
+		<h1>Climate Change Data Resources</h1>
+	</header>
+
+	<main class="cd-container">
+		<div class="row">
+      <div class="col-12" id="searchdiv">
+				<form name="searchForm">
+					<select id="searchMenu">
+						<option value="Description" selected="selected">Description</option>
+						<option value="Name">Name</option>
+						<option value="Acronym">Acronym</option>
+						<option value="Access Restrictions">Access Restrictions. Ex: "Open", "Proprietary", "Restricted", or "Unclear"</option>
+					</select>
+
+					<input type="search" class="search" id="search2" placeholder="Search..." value="">
+          <input type="submit" class="button" value="Search" onclick="javascript: searchTable(document.getElementById('search2').value, document.getElementById('searchMenu')); return false;">
+        </form>
+			</div>
+		<div class="row" id="finalRow">
+			  <input type="submit" class="button" value="Reset" onclick="javascript: resetTable(document.getElementById); return false;">
+		</div>
+
+	</main>
+	<div class="row">
+				<!-- Must keep the height style inline on 'visualization'.  It's the only way to force the table into an iframe-like box. -->
+		<div class="col-12" id="visualization" style="height: 100%; width: 100%; margin:auto"></div>
+	</div>
+	<a href="#0" class="cd-top">Top</a>
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script type="text/javascript" src="Data_Stuff.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="toTop.js"></script> <!-- Gem jQuery -->
+</body>
+</html>
